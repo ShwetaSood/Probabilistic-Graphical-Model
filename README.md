@@ -14,7 +14,7 @@ This query returns the value of the  selected variables such that the posterior 
 <li>shiny-demo/Functions.R - all functions of the server</li>
 </ol>
 <b> More details about the project in PPT_ADML_PGM_KnowledgeSharing_9JULY2015_v1.pdf <br>
-To know about the data refer: XLS_ADML_MET004_GAF_MAP_MB_11JUNE2015.xlsx </b>
+To know about the data refer: XLS_ADML_MET004_GAF_MAP_MB_11JUNE2015.xlsx </b><br>
 Overall Structure of the PGM system
 <p align="center">
 <img src="https://github.com/ShwetaSood/Probabilistic-Graphical-Model/blob/master/photos/method.JPG"><br>
