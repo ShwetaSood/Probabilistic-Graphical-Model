@@ -1,5 +1,5 @@
 # Probabilistic-Graphical-Model
-Probabilistic Graphical Model for identifying factors that will increase revenue
+Probabilistic Graphical Model for identifying factors that will increase revenue<br>
 Overall Structure of the PGM system
 <p align="center">
 <img src="https://github.com/ShwetaSood/Probabilistic-Graphical-Model/blob/master/photos/method.JPG"><br>
