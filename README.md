@@ -13,3 +13,17 @@ This query returns the value of the  selected variables such that the posterior 
 <li>shiny-demo/ui.R - UI of the application</li>
 <li>shiny-demo/Functions.R - all functions of the server</li>
 </ol>
+<b> More details about the project in PPT_ADML_PGM_KnowledgeSharing_9JULY2015_v1.pdf <br>
+To know about the data refer: XLS_ADML_MET004_GAF_MAP_MB_11JUNE2015.xlsx </b>
+Overall Structure of the PGM system
+<p align="center">
+<img src="https://github.com/ShwetaSood/Probabilistic-Graphical-Model/blob/master/photos/method.JPG"><br>
+</p>
+Details on Data Preparation and Network Building
+<p align="center">
+<img src="https://github.com/ShwetaSood/Probabilistic-Graphical-Model/blob/master/photos/bayesian.JPG"><br>
+</p>
+Maximum A Posteriori Query (MAP) Process flow<p align="center">
+<img src="https://github.com/ShwetaSood/Probabilistic-Graphical-Model/blob/master/photos/MAP.JPG"><br>
+</p>
+
