@@ -67,7 +67,6 @@ output$network_plot <- renderPlot({
   print("here")
   isolate({
     # Your logic here
-    print("ashish")
     wl = NULL
     bl = NULL
     data = as.data.frame(lapply(dt, factor))
